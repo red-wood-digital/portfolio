@@ -12,7 +12,9 @@ const fontSans = FontSans({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://redwooddigital.xys"),
+  metadataBase: new URL(
+    "https://portfolio-red-wood-digitals-projects.vercel.app/"
+  ),
   title: "Red Wood Digital",
   description:
     "As a leading digital marketing agency, we are dedicated to helping businesses thrive in the ever-evolving online landscape. With a passion for innovation and a commitment to delivering results",
