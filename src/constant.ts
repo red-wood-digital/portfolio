@@ -24,7 +24,7 @@ export const SERVICES = [
     url: "/services/branding",
     thumbnail: "/images/services/branding/thumbnail.jpeg",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dolores.",
+      "ORM Services Help in building proactively brand, creating a better connection with your customer",
     details:
       "ORM Services Help in building proactively brand, creating a better connection with your customer, and creating an impactful online reputation for your Business. This is where Review Express can help you, we not only mend online reputation marketing but we also maintain a good brand reputation. We are a leading digital marketing company and we provide 360-degree digital promotion solutions.. Being one of the top online reputation management companies in the world, we understand that the amount of prestige that any brand carries in the market directly affects its customers and productivity. The consistent process of repairing all the negative impacts that your product carries, building a brand reputation in the market with strong emphasis on customer satisfaction, and to protects it continuously at present as well as future. All this marks up the impression of right business strategies. Corporate reputation management process can be helpful to any business. Most of the clients look for online reputations services when their online image is impacted and it starts hampering their business brand. In this competitive environment, business should also invest in creating a positive image in the market. You can rely on Review Express -One the best online reputation management companies in India to help you improve brand image",
   },
@@ -34,7 +34,7 @@ export const SERVICES = [
     url: "/services/web-development",
     thumbnail: "/images/services/web-development/thumbnail.jpeg",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dolores.",
+      "Specialize in crafting digital experiences with a talented team of designers, developers",
     details:
       "As a premier web development agency, we specialize in crafting exceptional digital experiences tailored to our clients' unique visions and goals. With a talented team of designers, developers, and strategists, we leverage the latest technologies and best practices to create websites that not only look stunning but also deliver results. From concept to launch, we collaborate closely with our clients to ensure that every aspect of their website reflects their brand identity and resonates with their target audience. Whether it's a simple portfolio site or a complex e-commerce platform, we approach each project with creativity, precision, and a relentless commitment to excellence. Partner with us to elevate your online presence and achieve unparalleled success in the digital realm.",
   },

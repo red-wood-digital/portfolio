@@ -8,18 +8,16 @@ export default function Header() {
     <header className="top-0 z-30 fixed bg-background w-full">
       <div className="mx-auto px-4 sm:px-6 lg:px-8 max-w-screen-xl">
         <div className="flex justify-between items-center h-16">
-          <div className="md:flex flex-1 md:items-center md:gap-12">
-            <a className="block text-red-600" href="/">
-              <span className="sr-only">Home</span>
-              <Image
-                width={200}
-                height={200}
-                src="/images/logo.png"
-                alt="Red Wood Digital logo"
-                className="h-16 w-full"
-              />
-            </a>
-          </div>
+          <a className="block text-red-600" href="/">
+            <span className="sr-only">Home</span>
+            <Image
+              width={200}
+              height={200}
+              src="/images/logo.png"
+              alt="Red Wood Digital logo"
+              className="h-16 w-full"
+            />
+          </a>
 
           <div className="md:flex md:items-center md:gap-12">
             <nav aria-label="Global" className="md:block hidden">

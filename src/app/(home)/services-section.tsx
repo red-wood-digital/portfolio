@@ -11,9 +11,10 @@ export default function ServicesSection() {
           <h2 className="font-bold text-3xl sm:text-4xl">Our Services</h2>
 
           <p className="mt-4">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-            Consequuntur aliquam doloribus nesciunt eos fugiat. Vitae aperiam
-            fugit consequuntur saepe laborum.
+            We specialize in crafting digital experiences that captivate,
+            engage, and inspire. From web design and development to digital
+            marketing strategies, we&apos;re here to transform your online
+            presence into a powerful asset for your business.
           </p>
         </div>
 

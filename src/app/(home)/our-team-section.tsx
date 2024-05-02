@@ -10,8 +10,8 @@ export default function OurTeamSection() {
           <h2 className="font-bold text-3xl sm:text-4xl">Meet Our Team</h2>
 
           <p className="mt-4">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-            Consequuntur aliquam doloribus nesciunt eos fugiat.
+            Meet our dynamic team of creative minds and tech wizards, ready to
+            turn your visions into digital realities!
           </p>
         </div>
 
